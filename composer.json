@@ -1,9 +1,8 @@
 {
     "name": "demo-learning/package1",
-    "version": "1.0.1",
     "scripts": {
         "post-install-cmd": [
-            "echo 'testing testing"
+            "echo 'testing testing'"
         ]
     }
     

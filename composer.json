@@ -2,7 +2,7 @@
     "name": "vendor-demo-name/package1",
     "scripts": {
         "post-install-cmd": [
-            "VendorDemoName\\Package1\\Src\\Installer::install"
+            "echo 'Package 2 has been installed!'"
         ]
     }
     

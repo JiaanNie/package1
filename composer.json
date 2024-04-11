@@ -2,7 +2,7 @@
     "name": "vendor-demo-name/package1",
     "scripts": {
         "post-install-cmd": [
-            "ls -l"
+            "php -v"
         ]
     }
     

@@ -2,7 +2,7 @@
     "name": "vendor-demo-name/package1",
     "scripts": {
         "post-install-cmd": [
-            "echo 'Package 2 has been installed!'"
+            "ls -l"
         ]
     }
     

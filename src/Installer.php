@@ -1,5 +1,5 @@
 <?php
-namespace VendorName\Package1\Src\Installer;
+namespace VendorDemoName\Package1\Src\Installer;
 class Installer {
     public static function install() {
 

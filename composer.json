@@ -1,5 +1,5 @@
 {
-    "name": "vendor-demo-ame/package1",
+    "name": "vendor-demo-name/package1",
     "scripts": {
         "post-install-cmd": [
             "VendorName\\Package1\\Src\\Installer::install"

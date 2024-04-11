@@ -1,8 +1,8 @@
 {
-    "name": "demo-learning/package1",
+    "name": "vendor-name/package1",
     "scripts": {
         "post-install-cmd": [
-            "echo 'testing testing'"
+            "VendorName\\Package1\\Src\\Installer::install"
         ]
     }
     
